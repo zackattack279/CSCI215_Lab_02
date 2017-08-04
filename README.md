@@ -1,6 +1,12 @@
 # Lab_02
 Responsive web design lab
 
+Name: _______________________________________
+
+## DUE: 10 Sep 2017 @ 11:59 pm
+
+## Instructions:
+
 ## NOTE: Read CSSMissingManualCh16.pdf in the PDF dirctory of this repository prior to completing lab
 
 1. Fork this repository into your GitHub account
@@ -9,6 +15,4 @@ Responsive web design lab
 4. Perform the steps in CSSMissingManualCh16Tutorial.pdf in the PDF directory of the is repository.
 5. Once complete, commit and push your finished code into your GitHub account.
 
-
-# DUE 03 Sep 2017 @ 1159 pm
 
